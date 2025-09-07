@@ -8,7 +8,7 @@ Merci de votre intérêt à contribuer au projet **Répertoire des Standards Ouv
 2. **Clonez le dépôt**: Clonez le dépôt sur votre machine locale.
 3. **Créez une branche**: Créez une nouvelle branche pour vos modifications.
 4. **Faites vos changements**: Apportez les modifications que vous souhaitez.
-5. **Submit un Pull Request**: Soumettez votre branche avec une description claire de vos modifications.
+5. **Soumettez un Pull Request**: Soumettez votre branche avec une description claire de vos modifications.
 
 ## Code de Conduite
 Respectez notre [Code de Conduite](CODE_OF_CONDUCT.md) dans toutes vos interactions.
