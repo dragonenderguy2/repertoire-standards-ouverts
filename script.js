@@ -1,0 +1,1 @@
+console.log('Répertoire des Standards Ouverts - Outils Interactifs')
