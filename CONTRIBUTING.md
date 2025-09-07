@@ -14,4 +14,4 @@ Merci de votre intérêt à contribuer au projet **Répertoire des Standards Ouv
 Respectez notre [Code de Conduite](CODE_OF_CONDUCT.md) dans toutes vos interactions.
 
 ## Contact
-Si vous avez des questions, n'hésitez pas à nous contacter à l'adresse e-mail suivante : contact@standardsouverts.org.
+Si vous avez des questions, n'hésitez pas à nous contacter à l'adresse e-mail suivante : contact@standards-ouvert.com.
