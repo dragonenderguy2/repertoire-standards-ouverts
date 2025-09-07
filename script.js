@@ -1,1 +1,1 @@
-console.log('Répertoire des Standards Ouverts - Outils Intéractifs');
+console.log('Répertoire des Standards Ouverts - Outils Interactifs');
